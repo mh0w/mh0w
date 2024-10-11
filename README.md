@@ -7,9 +7,17 @@
   <img src="https://github.com/user-attachments/assets/ea15932d-b552-4b19-b055-62bd1011ae49" height="50" alt="GitHub" style="margin-right: 4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="50" alt="VSCode" style="margin-right: 4px">
   <img src="https://github.com/user-attachments/assets/0516f941-6735-4ad4-a7b7-dd45f95039dd" height="50" alt="Shell" style="margin-right: 4px">
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="50" alt="Spark" style="margin-right: 4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" height="50" alt="Hadoop" style="margin-right: 4px">
   <img src="https://hive.apache.org/images/hive.svg" height="50" alt="Hive" style="margin-right: 4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50" alt="Linux" style="margin-right: 4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" height="50" alt="Plotly" style="margin-right: 4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" height="50" alt="Hive" style="margin-right: 4px">
+
+  
 </p>
 
 <p align="center">
