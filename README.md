@@ -7,8 +7,11 @@
   <img src="https://github.com/user-attachments/assets/ea15932d-b552-4b19-b055-62bd1011ae49" height="50" alt="GitHub" style="margin-right: 4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="50" alt="VSCode" style="margin-right: 4px">
   <img src="https://github.com/user-attachments/assets/0516f941-6735-4ad4-a7b7-dd45f95039dd" height="50" alt="Shell" style="margin-right: 4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="50" alt="Spark" style="margin-right: 4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" height="50" alt="Hadoop" style="margin-right: 4px">
+  <img src="https://hive.apache.org/images/hive.svg" height="50" alt="Hive" style="margin-right: 4px">
 </p>
 
 <p align="center">
-  <img width="50%" src="https://streak-stats.demolab.com/?user=mh0w&theme=default&hide_border=true&border_radius=0&date_format=M+j%5B%2C+Y%5D&mode=weekly&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub Card" />
+  <img width="50%" src="https://streak-stats.demolab.com/?user=mh0w&theme=dark&hide_border=true&border_radius=0&date_format=M+j%5B%2C+Y%5D&mode=weekly&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub Card" />
 </p>
